@@ -14,6 +14,8 @@ Alternatively you can just copy the collection.tar.gz and reconstruct all the ot
 
 [Here1](requirements.pdf) there are the requirements of the project and [here2](documentation.pdf) is available the complete documentation 
 
+(Repository for multimedia information retrieval and computer vision's project)
+
 ## Main goals are:
 - Develop the code to create the inverted index with skipping blocks
 - Implement conjunctive and disjuctive queries
