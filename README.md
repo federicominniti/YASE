@@ -8,7 +8,7 @@ Furthermore, YASE employs dynamic pruning techniques such as MaxScore in order t
 
 **NOTE** Some files are avaliable here https://drive.google.com/drive/folders/13oxrPoda-8V5NOw3DzhLom-TOfcda7Uu?usp=drive_link:
 * You need to place results.txt of the drive in the 'trec\_eval' folder of the project
-* You need to place the 'structures' folder and collection.tar.gz of the drive in *SearchEngine/src/main/resources/* 
+* You need to place the `structures` folder and collection.tar.gz of the drive in *SearchEngine/src/main/resources/* 
 
 Alternatively you can just copy the collection.tar.gz and reconstruct all the other files
 
