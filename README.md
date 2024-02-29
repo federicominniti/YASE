@@ -1,7 +1,7 @@
 # YASE
 YASE is a search engine capable of providing search results for the **MS Marco document collection** (dataset is available on GitHub).
 In particular YASE has:
-- an indexer that creates: an inverted index (with skipping blocks), a lexicon and a document index
+- an indexer that creates: an inverted index (with skipping blocks), a lexicon and a document index;
 - a query processor that allows the user to perform conjunctive and disjunctive free text queries. (It implements both TF-IDF and BM25 scoring functions).
 
 Furthermore, YASE employs dynamic pruning techniques such as MaxScore in order to boost the performances of disjunctive queries. The search engine also adopts simple compression techniques (variable bytes and unary) to reduce the size of the inverted index, in order to be efficient in terms of memory usage while maintaining a fast research response.  
